@@ -3,7 +3,7 @@ Repo Reference: https://github.com/jerry800416/3D-bin-packing.gi
 Before to run
 "pip install -r requirements.txt"
 or
-"pip install py3dbp numpy matplotlib" (If you can install with .txt)
+"pip install py3dbp numpy matplotlib" (If you can't install with .txt)
 
 How to run
 "python workconcept.py"
