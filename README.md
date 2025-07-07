@@ -3,20 +3,20 @@
 If you have more items the box will large
 but if you have less items the box will small
 
-concept:<br>
+Concept:<br>
 -Define the box size and filter the box<br>
 -Try item pack each size from small to large with iterations<br>
 -If find the box to have put item in fit it STOP and SHOW Result with Simulation and List in console<br>
 -If not have the box to put item in the box it will go to TROLLOR BOX.
 
 
-Before to run
-"pip install -r requirements.txt"
+Before to run:
+**"pip install -r requirements.txt"**
 or
-"pip install py3dbp numpy matplotlib" (If you can't install with .txt)
+**"pip install py3dbp numpy matplotlib"** (If you can't install with .txt)
 
-How to run
-"python workconcept.py"
+How to run:
+**"python workconcept.py"**
 
 --------------------------------------------------------------------------------
 
