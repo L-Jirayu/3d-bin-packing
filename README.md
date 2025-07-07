@@ -4,10 +4,10 @@ If you have more items the box will large
 but if you have less items the box will small
 
 concept:
--Define the box size and filter the box
--Try item pack each size from small to large with iterations
--If find the box to have put item in fit it STOP and SHOW Result with Simulation and List in console
--If not have the box to put item in the box it will go to TROLLOR BOX.
+Define the box size and filter the box
+Try item pack each size from small to large with iterations
+If find the box to have put item in fit it STOP and SHOW Result with Simulation and List in console
+If not have the box to put item in the box it will go to TROLLOR BOX.
 
 
 Before to run
