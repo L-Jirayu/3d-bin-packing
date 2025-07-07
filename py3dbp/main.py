@@ -460,6 +460,7 @@ class Packer:
 
 
     def gravityCenter(self,bin):
+    
         ''' 
         Deviation Of Cargo gravity distribution
         ''' 
@@ -535,10 +536,14 @@ class Packer:
                     area[3][2] += x_2 * y_2 / all * int(i.weight)
                     break
             
-        r = [area[0][2],area[1][2],area[2][2],area[3][2]]
+        r = [area[0][2], area[1][2], area[2][2], area[3][2]]
         result = []
-        for i in r :
-            result.append(round(i / sum(r) * 100,2))
+
+        if sum(r) == 0:
+            return [0, 0, 0, 0]  # ป้องกันหารศูนย์
+
+        for i in r:
+                result.append(round(i / sum(r) * 100, 2))
         return result
 
 

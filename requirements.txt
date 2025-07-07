@@ -1,5 +1,6 @@
-# python 3.6.5
-numpy == 1.19.5
-matplotlib == 3.3.4
-Flask==2.2.5
-Flask-Cors==3.0.10
+# compatible with Python 3.10+ (แนะนำให้ใช้ Python >= 3.8)
+py3dbp
+numpy>=1.21.0
+matplotlib>=3.5.0
+Flask>=2.2.5
+Flask-Cors>=3.0.10
