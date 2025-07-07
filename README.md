@@ -10,7 +10,6 @@ python workconcept.py
 
 
 
-====
 3D Bin Packing
 ====
 
