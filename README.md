@@ -17,9 +17,9 @@ or
 
 
 AND IT VERY IMPORTANT IF YOU USE THIS WITH [this repo](https://github.com/L-Jirayu/packbox-size).
-USE THIS REPO FOR MICROSERVICE FOR [this repo](https://github.com/L-Jirayu/packbox-size).
-**pip install fastapi uvicorn pydantic**
-**uvicorn main:app --reload --port xxxx** (xxxx is port number default is 5000)
+USE THIS REPO FOR MICROSERVICE FOR [this repo](https://github.com/L-Jirayu/packbox-size).<br>
+**pip install fastapi uvicorn pydantic**<br>
+**uvicorn main:app --reload --port xxxx** (xxxx is port number default is 5000)<br>
 
 
 How to run:
