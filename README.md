@@ -15,8 +15,15 @@ Before to run:
 or
 **"pip install py3dbp numpy matplotlib"** (If you can't install with .txt)
 
+
+AND IT VERY IMPORTANT IF YOU USE THIS WITH [this repo](https://github.com/L-Jirayu/packbox-size).
+USE THIS REPO FOR MICROSERVICE FOR [this repo](https://github.com/L-Jirayu/packbox-size).
+**pip install fastapi uvicorn pydantic**
+**uvicorn main:app --reload --port xxxx** (xxxx is port number default is 5000)
+
+
 How to run:
-**"python workconcept.py"**
+**"python simulation.py"**
 
 --------------------------------------------------------------------------------
 
