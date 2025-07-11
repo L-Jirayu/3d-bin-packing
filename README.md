@@ -17,8 +17,7 @@ or
 
 
 AND IT VERY IMPORTANT IF YOU USE THIS WITH [this repo](https://github.com/L-Jirayu/packbox-size).<br>
-CAN USE THIS REPO FOR MICROSERVICE FOR [this repo](https://github.com/L-Jirayu/packbox-size).<br>
-**pip install fastapi uvicorn pydantic**<br>
+Can use this repo for microservices. **pip install fastapi uvicorn pydantic**<br>
 
 
 How to run:
