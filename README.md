@@ -16,8 +16,8 @@ or
 **"pip install py3dbp numpy matplotlib"** (If you can't install with .txt)
 
 
-AND IT VERY IMPORTANT IF YOU USE THIS WITH [this repo](https://github.com/L-Jirayu/packbox-size).
-USE THIS REPO FOR MICROSERVICE FOR [this repo](https://github.com/L-Jirayu/packbox-size).<br>
+AND IT VERY IMPORTANT IF YOU USE THIS WITH [this repo](https://github.com/L-Jirayu/packbox-size).<br>
+CAN USE THIS REPO FOR MICROSERVICE FOR [this repo](https://github.com/L-Jirayu/packbox-size).<br>
 **pip install fastapi uvicorn pydantic**<br>
 
 
